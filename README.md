@@ -1,4 +1,4 @@
-##       Welcome to my GithUB
+##       Welcome to my GitHUB
 👋 Hello, I'm **Nur Sena**
 
 💻 I’m currently working on **Kodluyoruz-Bootcamp**
