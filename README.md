@@ -1,9 +1,19 @@
-- 👋 Hi, I’m @nursenabozdag
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Python an Data Science 
-- 📫 How to reach me ..
+##       Welcome to my GithUB
+👋 Hello, I'm **Nur Sena**
 
-<!---
-nursenabozdag/nursenabozdag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 I’m currently working on **Kodluyoruz-Bootcamp**
+
+📌 I’m currently learning **Python & Data Science**
+
+👀 I’m interested in **Data Scientist**
+
+📫 How to reach me: **nursenabozdag@outlook.com**
+
+:point_right: LinkedIn: [Nur Sena Bozdağ](www.linkedin.com/in/nur-sena-bozdağ-447605177)
+
+
+
+
+
+
+
