@@ -1,3 +1,4 @@
+<br />
 <p align="center">
   <img src="https://github.com/nursenabozdag/nursenabozdag/blob/main/98280c9ae6e97b29681fccbf04e57117.gif" width="550" height="340" />
 </p>
