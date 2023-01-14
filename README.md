@@ -7,9 +7,11 @@
 
 👀 I’m interested in **Data Scientist**
 
-📫 How to reach me: **nursenabozdag@outlook.com**
 
-:point_right: LinkedIn: [Nur Sena Bozdağ](www.linkedin.com/in/nur-sena-bozdağ-447605177)
+
+
+[![linkedin](https://img.shields.io/badge/-linkedin-757575?style=flat-quare&labelColor=757575&logo=linkedin&logoColor=white&link=link)](www.linkedin.com/in/nur-sena-bozdağ-447605177)
+
 
 
 
