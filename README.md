@@ -15,6 +15,11 @@
 
 
 
+   <img src="https://github.com/nursenabozdag/nursenabozdag/blob/main/98280c9ae6e97b29681fccbf04e57117.gif" width="auto">
+
+
+
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nursenabozdag&show_icons=true&theme=dark)
 
