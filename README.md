@@ -12,10 +12,16 @@
 :point_right: LinkedIn: [Nur Sena Bozdağ](www.linkedin.com/in/nur-sena-bozdağ-447605177)
 
 
-![](https://institute.careerguide.com/become-a-data-scientist-in-the-21st-century/)
 
 
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nursenabozdag&show_icons=true&theme=dark)
+
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nursenabozdag&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
