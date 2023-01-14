@@ -12,7 +12,7 @@
 **Connect with me:**
 
 
-[![linkedin](https://img.shields.io/badge/-linkedin-757575?style=flat-quare&labelColor=757575&logo=linkedin&logoColor=white&link=link)](linkedin.com/in/nursenabozdag)
+[![linkedin](https://img.shields.io/badge/-linkedin-757575?style=flat-quare&labelColor=757575&logo=linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/nursenabozdag/overlay/contact-info/linkedin.com/in/nursenabozdag)
 
 [![outlook](https://img.shields.io/badge/-outlook-757575?style=flat-quare&labelColor=757575&logo=outlook&logoColor=white&link=link)](nursenabozdag@outlook.com)
 
